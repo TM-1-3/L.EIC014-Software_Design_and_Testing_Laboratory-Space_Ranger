@@ -1,12 +1,28 @@
-**LDTS_15_05 - SPACE RANGER**
+<img src='https://sigarra.up.pt/feup/pt/imagens/LogotipoSI' width="30%"/>
 
-The Space can be a dangerous place. In this 2D space shooter, traverse through the cosmos in a heart pumping adventure where you will dodge asteroids, fight the hardest battles and reclaim space from your enemies.
+<h3 align="center">Licenciatura em Engenharia Informática e Computação<br> L.EIC014 - Laboratório de Desenho e Teste de Software<br> 2024/2025 </h3>
 
-This project was developed by:
+---
+<h3 align="center"> Colaboradores &#129309 </h2>
 
->**João Pedro Magalhães Marques** (up202307612);
->**Tomás Pereira da Silva** (up202307796);
->**Tomás da Silva Morais** (up202304692);
+<div align="center">
+
+| Nome         | Número      |
+|--------------|-------------|
+| João Marques | up202307612 |
+| Tomás Morais | up202304692 |
+| Tomás Silva  | up202307796 |
+
+Nota : 16,2
+
+</div>
+
+## Space Ranger
+
+## Project Report
+
+**The Space can be a dangerous place. In this 2D space shooter, traverse through the cosmos in a heart pumping adventure where you will dodge asteroids, fight the hardest battles and reclaim space from your enemies.**
+
 
 **Menu Controls:**
 
