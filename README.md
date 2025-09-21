@@ -1,13 +1,13 @@
 <img src='https://sigarra.up.pt/feup/pt/imagens/LogotipoSI' width="30%"/>
 
-<h3 align="center">Licenciatura em Engenharia Informática e Computação<br> L.EIC014 - Laboratório de Desenho e Teste de Software<br> 2024/2025 </h3>
+<h3 align="center">BSc in Informatics and Computing Engineering<br> L.EIC014 - Software Desig and Testing Laboratory<br> 2024/2025 </h3>
 
 ---
-<h3 align="center"> Colaboradores &#129309 </h2>
+<h3 align="center"> Collaborators &#129309 </h2>
 
 <div align="center">
 
-| Nome         | Número      |
+| Name         | Number      |
 |--------------|-------------|
 | João Marques | up202307612 |
 | Tomás Morais | up202304692 |
@@ -283,6 +283,6 @@ All `Error Prone` issues fixed, no major smells remain.
 
 ### Test Coverage
 
-*Note: despite some failed tests, we kept them to increase coverage.*
+***Note:** despite some failed tests, we kept them to increase coverage.*
 
 ![Alt text](docs/testCoverage.png)
