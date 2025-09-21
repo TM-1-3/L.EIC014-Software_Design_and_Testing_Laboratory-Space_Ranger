@@ -1,5 +1,9 @@
 <img src='https://sigarra.up.pt/feup/pt/imagens/LogotipoSI' width="30%"/>
 
+<div align="center">
+🌍 <a href="README.md">English</a> | 🇵🇹 <a href="README.pt.md">Português</a>
+</div>
+
 <h3 align="center">BSc in Informatics and Computing Engineering<br> L.EIC014 - Software Design and Testing Laboratory<br> 2024/2025 </h3>
 
 ---
