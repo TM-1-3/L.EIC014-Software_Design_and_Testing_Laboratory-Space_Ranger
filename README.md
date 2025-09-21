@@ -21,6 +21,22 @@ Nota : 16,2
 
 *The Space can be a dangerous place. In this 2D space shooter, traverse through the cosmos in a heart pumping adventure where you will dodge asteroids, fight the hardest battles and reclaim space from your enemies*
 
+* [Controls](#controls)  
+  * [Menu Controls](#menu-controls)  
+  * [Level Controls](#level-controls)  
+* [Game Screenshots](#game-screenshots)  
+* [Implemented Features](#implemented-features)  
+* [Structure and Design Patterns](#structure-and-design-patterns)  
+  * [Singleton](#singleton)  
+  * [Model - View - Controller (MVC)](#model---view---controller-mvc)  
+  * [State](#state)  
+  * [Game Loop Pattern](#game-loop-pattern)  
+* [Sound Management](#sound-management)  
+* [Known Code Smells](#known-code-smells)  
+* [UML Class Diagram](#uml-class-diagram)  
+* [Testing](#testing)  
+  * [Test Coverage](#test-coverage)  
+
 ## Controls
 
 ### Menu Controls
