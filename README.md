@@ -58,29 +58,44 @@ Nota : 16,2
 
 ## Game Screenshots
 
-![Alt text](docs/Screenshots/Menu.gif)
+<div align="center">
 
-Gif 1 - Menu 
+<img src="docs/Screenshots/Menu.gif" alt="Menu" width="1000"/><br>
 
-![Alt text](docs/Screenshots/Level1.gif)
+*Gif 1 - Menu*
 
-Gif 2 - Level 1
+<br><br>
 
-![Alt text](docs/Screenshots/Level2.gif)
+<img src="docs/Screenshots/Level1.gif" alt="Level 1" width="1000"/><br>
 
-Gif 3 - Level 2
+*Gif 2 - Level 1*
 
-![Alt text](docs/Screenshots/Level3.gif)
+<br><br>
 
-Gif 4 - Level 3
+<img src="docs/Screenshots/Level2.gif" alt="Level 2" width="1000"/><br>
 
-![Alt text](docs/Screenshots/gameOverScreen.png)
+*Gif 3 - Level 2*
+
+<br><br>
+
+<img src="docs/Screenshots/Level3.gif" alt="Level 3" width="1000"/><br>
+
+*Gif 4 - Level 3*
+
+<br><br>
+
+<img src="docs/Screenshots/gameOverScreen.png" alt="Game Over Screen" width="1000"/><br>
 
 Fig. 1 - Game Over Screen
 
-![Alt text](docs/Screenshots/victoryScreen.png)
+<br><br>
 
-Fig. 2 - Victory Screen
+<img src="docs/Screenshots/victoryScreen.png" alt="Victory Screen" width="1000"/><br>
+
+*Fig. 2 - Victory Screen*
+
+</div>
+
 
 ## Implemented Features
 
