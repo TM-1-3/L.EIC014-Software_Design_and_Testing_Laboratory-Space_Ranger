@@ -45,7 +45,7 @@ Grade : 16,2
 
 ### Menu Controls
 
-- Up/Down Arrow Key -> Navigate through options;
+- `Up/Down Arrow` Key -> Navigate through options;
 - `ENTER` -> Select option;
 - Key `y`/`Y` -> Confirm exit of the game; *
 - Key `n`/`N` -> Go back to the menu. *
@@ -54,8 +54,8 @@ Grade : 16,2
 
 ### Level Controls
 
-- Up Arrow Key -> Move the ship up;
-- Down Arrow Key -> Move the ship down;
+- `Up Arrow Key` -> Move the ship up;
+- `Down Arrow Key` -> Move the ship down;
 - Key `a`/`A` -> Fire projectile;
 - Key `s`/`S` -> Fire bomb;
 - Key `q`/`Q` -> Exit the game.
