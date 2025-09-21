@@ -1,6 +1,6 @@
 <img src='https://sigarra.up.pt/feup/pt/imagens/LogotipoSI' width="30%"/>
 
-<h3 align="center">BSc in Informatics and Computing Engineering<br> L.EIC014 - Software Desig and Testing Laboratory<br> 2024/2025 </h3>
+<h3 align="center">BSc in Informatics and Computing Engineering<br> L.EIC014 - Software Design and Testing Laboratory<br> 2024/2025 </h3>
 
 ---
 <h3 align="center"> Collaborators &#129309 </h2>
@@ -13,7 +13,7 @@
 | Tomás Morais | up202304692 |
 | Tomás Silva  | up202307796 |
 
-Nota : 16,2
+Grade : 16,2
 
 </div>
 
